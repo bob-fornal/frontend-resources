@@ -2,9 +2,9 @@
 This is a curated list of frontend resources.
 
 ## General
-
 * [Front-end Developer Handbook](https://frontendmasters.com/books/front-end-handbook/2019/)
 
+## Resource Notes
 * [AngularJS]()
 
 ## CSS
