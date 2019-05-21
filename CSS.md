@@ -1,4 +1,4 @@
-([BACK](https://github.com/bob-fornal/frontend-resources/edit/master/README.md))
+([BACK](https://github.com/bob-fornal/frontend-resources/blob/master/README.md))
 # CSS
 ## Introduction
 * [CSS from Zero to Hero: Ali Spittel](https://dev.to/aspittel/css-from-zero-to-hero-3o16)
