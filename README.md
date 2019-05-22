@@ -7,3 +7,4 @@ This is a curated list of frontend resources.
 ## Resource Notes
 * [AngularJS](https://github.com/bob-fornal/frontend-resources/blob/master/AngularJS.md)
 * [CSS](https://github.com/bob-fornal/frontend-resources/blob/master/CSS.md)
+* [GIT](https://github.com/bob-fornal/frontend-resources/blob/master/GIT.md)
