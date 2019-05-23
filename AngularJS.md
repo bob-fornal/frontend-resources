@@ -1,5 +1,7 @@
 ([BACK](https://github.com/bob-fornal/frontend-resources/blob/master/README.md))
 # AngularJS
+[AngularJS Website](https://angularjs.org/)
+
 ## Styleguide
  Link | Notes
 ------|------
