@@ -9,4 +9,5 @@ This is a curated list of frontend resources.
 * [CSS](https://github.com/bob-fornal/frontend-resources/blob/master/CSS.md)
 * [GIT](https://github.com/bob-fornal/frontend-resources/blob/master/GIT.md)
 * [HTML](https://github.com/bob-fornal/frontend-resources/blob/master/HTML.md)
+* [JavaScript](https://github.com/bob-fornal/frontend-resources/blob/master/JavaScript.md)
 * [Vue](https://github.com/bob-fornal/frontend-resources/blob/master/Vue.md)
