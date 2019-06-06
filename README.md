@@ -14,3 +14,6 @@ This is a curated list of frontend resources.
 * [PWA](https://github.com/bob-fornal/frontend-resources/blob/master/pwa.md)
 * [RegEx](https://github.com/bob-fornal/frontend-resources/blob/master/RegEx.md)
 * [Vue](https://github.com/bob-fornal/frontend-resources/blob/master/Vue.md)
+
+# Standards
+* [Testing](https://github.com/bob-fornal/frontend-resources/blob/master/front-end-testing.md)
