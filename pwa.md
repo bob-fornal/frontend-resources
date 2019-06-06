@@ -2,5 +2,5 @@
 # PWAs
 * [Google: Progressive Web Apps](https://developers.google.com/web/progressive-web-apps/)
 
-## PWA Notes
+## Notes
 * [Google: Promoting Mobile Installation of PWA](https://developers.google.com/web/fundamentals/app-install-banners/promoting-install-mobile)
